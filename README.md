@@ -1,7 +1,7 @@
 # Deep-Learning-Seminar
 Sequence Modeling: Recurrent and Recursive nets
 
-Interesting links to Recurrent Neural Networks:
+Interesting links to Recurrent Neural Networks blog posts and papers:
 
 
 Step-by-step explanation of LSTM networks
