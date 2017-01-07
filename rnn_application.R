@@ -26,4 +26,4 @@ plot(model$loss, type = "l")
 # Backpropagation formulas wrong? Loss not decreasing
 
 
-new_text <- generate_text(100, weights, dict, initial_character = "T", sample = TRUE)
+new_text <- generate_text(100, model$weights, dict, initial_character = "T", sample = TRUE)

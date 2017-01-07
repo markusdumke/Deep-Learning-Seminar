@@ -71,7 +71,7 @@ intialize_weights <- function(seed, n_hidden, n_vocab) {
   list(U = U, V = V, W = W, b = b, c = c)
 }
 
-#' Conmpute softmax function
+#' Compute softmax function
 #' @param x: a numeric vector
 softmax <- function(x) {
   exp(x) / sum(exp(x))
